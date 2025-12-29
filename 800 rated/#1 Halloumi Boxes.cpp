@@ -1,5 +1,6 @@
 //  https://codeforces.com/problemset/problem/1903/A
-
+// at most k sized subarray reverse
+// means we can always make subarray of size 2 nd reverse that, therefore k > 1 => YES
 
 #include <bits/stdc++.h>
 using namespace std;
