@@ -45,3 +45,6 @@ int main()
         cout << max_dist << endl;
     }
 }
+
+// Time Complexity (TC): O(n) = O(50)
+// Space Complexity (SC): O(n)
